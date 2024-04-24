@@ -9,6 +9,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var issPosition: [ISS_Position]
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -18,6 +19,9 @@ struct ContentView: View {
         }
         .padding()
     }
+}
+    
+    
 }
 
 #Preview {
