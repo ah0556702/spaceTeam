@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D071C1C2BDFE23500856CAD /* Astronauts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D071C1B2BDFE23500856CAD /* Astronauts.swift */; };
 		D9A57A582BD94DF600E30C99 /* spaceTeamApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A57A572BD94DF600E30C99 /* spaceTeamApp.swift */; };
 		D9A57A5A2BD94DF600E30C99 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A57A592BD94DF600E30C99 /* ContentView.swift */; };
 		D9A57A5C2BD94DF700E30C99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9A57A5B2BD94DF700E30C99 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8D071C1B2BDFE23500856CAD /* Astronauts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Astronauts.swift; sourceTree = "<group>"; };
 		D9A57A542BD94DF600E30C99 /* spaceTeam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = spaceTeam.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9A57A572BD94DF600E30C99 /* spaceTeamApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = spaceTeamApp.swift; sourceTree = "<group>"; };
 		D9A57A592BD94DF600E30C99 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				D9A57A572BD94DF600E30C99 /* spaceTeamApp.swift */,
 				D9A57A592BD94DF600E30C99 /* ContentView.swift */,
 				D9A57A812BD9545200E30C99 /* ISSMap.swift */,
+				8D071C1B2BDFE23500856CAD /* Astronauts.swift */,
 				D9A57A5B2BD94DF700E30C99 /* Assets.xcassets */,
 				D9A57A5D2BD94DF700E30C99 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				D9A57A5A2BD94DF600E30C99 /* ContentView.swift in Sources */,
 				D9A57A582BD94DF600E30C99 /* spaceTeamApp.swift in Sources */,
 				D9A57A822BD9545200E30C99 /* ISSMap.swift in Sources */,
+				8D071C1C2BDFE23500856CAD /* Astronauts.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
